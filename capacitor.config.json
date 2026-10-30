@@ -1,0 +1,14 @@
+{
+  "appId": "com.miempresa.rastreo",
+  "appName": "Rastreo Mensajeros",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "BackgroundGeolocation": {
+      "backgroundTitle": "Jornada Activa",
+      "backgroundText": "Compartiendo ubicación en tiempo real."
+    }
+  }
+}
